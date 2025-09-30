@@ -10,7 +10,7 @@ This project is a Movie Recommendation System built using machine learning techn
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Movie_Recommendation_System.git
+   git clone https://github.com/Hariprasath-US/Movie_Recommendation_System.git
    cd Movie_Recommendation_System
    ```
 2. Install dependencies:
